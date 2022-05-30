@@ -1,0 +1,36 @@
+
+.guide img{
+    height: 100%;
+    width: 100%;
+}
+.guide .card{
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px 0px rgba(176,176,176,0.75);
+
+}
+
+.navbar ul li .nav-link{
+    color:black;
+}
+@media (max-width:720px) {
+    .card{
+        margin: 40px 0px;
+        
+    }
+    .guide .banner{
+        width: 100%!important;
+    }
+}
+.guide{
+    margin-top: 90px!important;
+   
+}
+
+.guide .banner{
+   
+   margin: 0 auto;
+  }
+ .guide .card{
+    width:max-content
+}

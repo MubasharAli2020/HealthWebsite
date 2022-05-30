@@ -1,0 +1,26 @@
+/* stats */
+.stats {
+    padding: 10px;
+    margin-top: 30px;
+    margin-bottom: -60px;
+    
+  }
+  .stats-heading {
+    animation: slideInFromBottom 2s ease-in;
+  }
+  .stats .stats-heading h3 {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  .stats  h3 {
+    font-size: 35px;
+  }
+  .stats  p {
+    font-size: 26px;
+    color: var(--secondary-color);
+    font-weight: bold;
+  }
+  .stats  div {
+    line-height: 2rem;
+  }
+ 
