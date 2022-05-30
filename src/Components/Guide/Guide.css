@@ -31,6 +31,7 @@
    
    margin: 0 auto;
   }
- .guide .card{
-    width:max-content
+
+.guide .card h4{
+    text-align: center;
 }
