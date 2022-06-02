@@ -13,8 +13,8 @@ export default function Contact(){
 			<h4 class="animation a2">Contact US for any further inqueries</h4>
 		  </div>
 		  <div class="form">
-			<input type="email" class="form-field animation a3" placeholder="Email Address" />
-			<input type="password" class="form-field animation a4" placeholder="Password" />
+			<input type="text" class="form-field animation a3" placeholder="Name" />
+			<input type="email" class="form-field animation a4" placeholder="Email" />
 			<textarea class="form-field animation a4" placeholder="Message" rows="7" ></textarea>
 		   
 			<button class="animation a6">Send</button>
