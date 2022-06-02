@@ -30,7 +30,7 @@
 
 .contact .right {
   flex: 1;
-  background-color: black;
+  
   transition: 1s;
   background-image: url(http://unblast.com/wp-content/uploads/2020/09/Contact-Us-Vector-Illustration-Part-02-1.jpg);
   background-size: cover;
