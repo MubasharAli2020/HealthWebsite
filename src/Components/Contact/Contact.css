@@ -136,6 +136,17 @@
   }
   @media(max-width:720px){
     .contact {
-   margin-left: -70px!important;
+      max-width: 100vw;
+     
+      overflow-x: hidden;
     }
+   
+    .contact .form input,textarea.button{
+      width:fit-content;
+    }
+    textarea{
+    
+      width: 80% !important;
+    }
+   
   }

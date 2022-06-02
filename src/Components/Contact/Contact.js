@@ -30,11 +30,11 @@ export default function Contact(){
 
 			
 			<div class="form-group message">
-				<textarea id="formMessage" class="form-control form-control-lg" rows="7" placeholder="Mensagem"></textarea>
+				<textarea id="formMessage" class="form-control" rows="7" placeholder="Message"></textarea>
 			</div>
 		
 			
-			<div class="text-center">
+			<div class="text-center button-submit">
 				<button type="submit" class="submit-btn btn btn-primary" tabIndex="-1">Send message</button>
 			</div>
 	</form>
